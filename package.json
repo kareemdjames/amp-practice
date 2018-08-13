@@ -1,0 +1,23 @@
+{
+  "name": "amp-practice",
+  "version": "1.0.0",
+  "description": "Just a place to practice building an AMP website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kareemdjames/amp-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kareemdjames/amp-practice/issues"
+  },
+  "homepage": "https://github.com/kareemdjames/amp-practice#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
